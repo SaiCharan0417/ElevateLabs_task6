@@ -20,3 +20,4 @@
 * SALESDATA.csv from KAGGLE
 
 ## KEY LEARNINGS
+* Learn how to group data and analyze time trends
