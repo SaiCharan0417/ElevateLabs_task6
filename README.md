@@ -1,5 +1,5 @@
 # ElevateLabs
-# DATA ANALYTICS INTERNSHIP TASK-4
+# DATA ANALYTICS INTERNSHIP TASK-6
 #  SQL for Data Analysis
 
 ## Objective
